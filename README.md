@@ -31,11 +31,11 @@ Vérifier si une chaîne de caractères saisie par l’utilisateur correspond à
 
 Une adresse IPv4 valide doit respecter les règles suivantes :
 
--> être composée de 4 parties séparées par des points .
+1. être composée de 4 parties séparées par des points .
 
--> chaque partie doit être un nombre entier
+2. chaque partie doit être un nombre entier
 
--> chaque nombre doit être compris entre 0 et 255
+3. chaque nombre doit être compris entre 0 et 255
 
 
 <h2> L’algorithme :</h2>
