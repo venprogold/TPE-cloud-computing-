@@ -13,7 +13,7 @@ LISTE DES MEMBRES ET PARTICIPATION :
 Ce projet regroupe trois algorithmes fondamentaux développés en Python. Chaque algorithme répond à un problème précis :
 
 #### la validation d’une adresse IP,
-#### le chiffrement César,
+#### l'encodage,
 #### le jeu du Pendu.
 
 
@@ -56,7 +56,7 @@ True si l’adresse IP est valide
 False sinon
 
 ----------------------------------
-## 2. Algorithme de chiffrement César
+## 2. Algorithme d'encodage 
 
 <h2> Problème posé</h2>
 
@@ -65,9 +65,9 @@ Sécuriser un texte en le rendant illisible à l’aide d’un décalage des let
 <h2> Principe de résolution</h2>
 
 Le chiffrement César consiste à :
-->décaler chaque lettre de 3 positions dans l’alphabet
-->conserver la casse (majuscule/minuscule)
-->ne pas modifier les caractères non alphabétiques
+1.décaler chaque lettre de 3 positions dans l’alphabet
+2.conserver la casse (majuscule/minuscule)
+3.ne pas modifier les caractères non alphabétiques
 
 <h2> L’algorithme :</h2>
 
