@@ -1,10 +1,12 @@
 # TPE-cloud-computing-
 LISTE DES MEMBRES ET PARTICIPATION :
 
-1) FANDO BIENVENUE FIYAMA 23B423FS
-(
-2) WANDALA ISAAC 23A765FS
-3)  NDEWELEM MATTHIEU 23B195FS
+1)  FANDO BIENVENUE FIYAMA 23B423FS :mise en place sur GitHub et explications de la résolution 
+2)  WANDALA ISAAC 23A765FS: conception de l'algorithme 6 et 11
+3)  NDEWELEM MATTHIEU 23B195FS : conception de l'algorithme 11 et 23
+4)  TCHIDEME GABRIEL 23B036FS : mise en place sur GitHub et explication de la résolution
+5)  GUIDAIDI ALAHOKI 23BO69FS: résolution de l'algorithme 6,11 et 23
+6)  GANDI HASSAN KAVAYE ALPHONSE  23B053FS : résolution de l'algorithme 6 et 11
 
 ## Présentation générale
 
